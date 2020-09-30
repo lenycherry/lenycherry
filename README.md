@@ -10,7 +10,9 @@ The world of IT has always fascinated me and deep down I have always hoped to be
 #### Langages:
 ![HTML5](https://img.shields.io/badge/HTML5-EEAA5D.svg?style=for-the-badge&logo=html5)  ![CSS3](https://img.shields.io/badge/CSS3-698095.svg?style=for-the-badge&logo=css3)   ![JavaScript](https://img.shields.io/badge/Javascript-E4AE04.svg?style=for-the-badge&logo=javascript)   ![PHP](https://img.shields.io/badge/PHP-BDB9CC.svg?style=for-the-badge&logo=php)   
 #### Frameworks:
-![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-927EDD.svg?style=for-the-badge&logo=bootstrap)   ![JQUERY](https://img.shields.io/badge/JQUERY-7EAFDD.svg?style=for-the-badge&logo=jquery) 
+![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-927EDD.svg?style=for-the-badge&logo=bootstrap)    
+#### Libraries:
+![JQUERY](https://img.shields.io/badge/JQUERY-7EAFDD.svg?style=for-the-badge&logo=jquery)
 #### Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-A1C1DF.svg?style=for-the-badge&logo=mysql)
 #### CMS:
