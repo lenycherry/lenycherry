@@ -1,12 +1,12 @@
-### Hi there :hand: My name is Célia
-#### I am web developer junior
+### Hi there 👋 My name is Célia
+#### I am french web developer junior
 The world of IT has always fascinated me and deep down I have always hoped to be part of it. I did a web development training and I fell in love with code. You will find here my first projects of studies in PHP and other personal projects to continue to learn and improve myself.
 
-:mag_right:I am looking for my first job and I am really motivated to succeed.
+:mag_right:I am looking for my first job and I am really motivated to succeed.:rocket:
 
 
 
-### 💻 Skills 
+### :computer: Skills 
 #### Langages:
 ![HTML5](https://img.shields.io/badge/HTML5-EEAA5D.svg?style=for-the-badge&logo=html5)  ![CSS3](https://img.shields.io/badge/CSS3-698095.svg?style=for-the-badge&logo=css3)   ![JavaScript](https://img.shields.io/badge/Javascript-E4AE04.svg?style=for-the-badge&logo=javascript)   ![PHP](https://img.shields.io/badge/PHP-BDB9CC.svg?style=for-the-badge&logo=php)   
 #### Frameworks:
@@ -22,6 +22,13 @@ The world of IT has always fascinated me and deep down I have always hoped to be
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenycherry)](https://github.com/anuraghazra/github-readme-stats)    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lenycherry&show_icons=true)
 
-### Social
+###  :pushpin: Currently
+:pencil2: I am working on my [portfolio](https://github.com/lenycherry/portefolio) by improving my skills with CSS3, JS vanilla.
+
+:books: I want to learn ![SASS](https://img.shields.io/badge/sass-444346.svg?style=flat-square&logo=sass) ![REACT](https://img.shields.io/badge/react-444346.svg?style=flat-square&logo=react) ![SYMPHONYT](https://img.shields.io/badge/symphony-444346.svg?style=flat-square&logo=symphony)
+
+:mag_right: I'm looking for my first job in IT [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/célia-gaudin/)
+
+### 👋 Social
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/lenycherry)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/célia-gaudin/)
