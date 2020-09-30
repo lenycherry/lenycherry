@@ -2,7 +2,7 @@
 #### I am french web developer junior
 The world of IT has always fascinated me and deep down I have always hoped to be part of it. I did a web development training and I fell in love with code. You will find here my first projects of studies in PHP and other personal projects to continue to learn and improve myself.
 
-:mag_right:I am looking for my first job and I am really motivated to succeed.:rocket:
+:mag_right:I am looking for my first job in IT and I am really motivated to succeed.:rocket:
 
 
 
