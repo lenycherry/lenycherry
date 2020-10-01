@@ -35,6 +35,7 @@ The world of IT has always fascinated me and deep down I have always hoped to be
 ### 👋 Social
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/lenycherry)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/célia-gaudin/)
+[![twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Gd1Celia)
 
 
 :space_invader:
