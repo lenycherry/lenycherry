@@ -38,4 +38,4 @@ The world of IT has always fascinated me and deep down I have always hoped to be
 [![twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Gd1Celia)
 
 
-:space_invader:
+ <details><summary>:space_invader:</summary>Geek inside - PoE gamer</details>
