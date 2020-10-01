@@ -1,3 +1,4 @@
+<a href="https://ibb.co/gZR9qjv"><img src="https://i.ibb.co/LdZRjkQ/Ban-Git-Hub.jpg" alt="Ban-Git-Hub" border="0"></a>
 ### Hi there 👋 My name is Célia
 #### I am french web developer junior
 The world of IT has always fascinated me and deep down I have always hoped to be part of it. I did a web development training and I fell in love with code. You will find here my first projects of studies in PHP and other personal projects to continue to learn and improve myself.
@@ -34,3 +35,6 @@ The world of IT has always fascinated me and deep down I have always hoped to be
 ### 👋 Social
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/lenycherry)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/célia-gaudin/)
+
+
+:space_invader:
