@@ -26,9 +26,11 @@ The world of IT has always fascinated me and deep down I have always hoped to be
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenycherry)](https://github.com/anuraghazra/github-readme-stats)    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lenycherry&show_icons=true)
 
 ###  :pushpin: Currently
-:pencil2: I am working on my [portfolio](https://github.com/lenycherry/portefolio) by improving my skills with CSS3, JS vanilla.
+:pencil2: I am working on my [portfolio](https://github.com/lenycherry/portefolio) by improving my skills with CSS3, JS vanilla and some little applications to learn React.
 
-:books: I want to learn ![SASS](https://img.shields.io/badge/sass-444346.svg?style=flat-square&logo=sass) ![REACT](https://img.shields.io/badge/react-444346.svg?style=flat-square&logo=react) ![SYMPHONYT](https://img.shields.io/badge/symphony-444346.svg?style=flat-square&logo=symphony)
+:book: What I learn : ![REACT](https://img.shields.io/badge/react-444346.svg?style=flat-square&logo=react) 
+
+:books: What I want to learn ![SASS](https://img.shields.io/badge/Sass-444346.svg?style=flat-square&logo=sass) ![SYMPHONYT](https://img.shields.io/badge/Symphony-444346.svg?style=flat-square&logo=symphony) ![NODEJS](https://img.shields.io/badge/Node.js-444346.svg?style=flat-square&logo=node.js) ![REACTNATIVE](https://img.shields.io/badge/ReactNative-444346.svg?style=flat-square&logo=react)
 
 :mag_right: I'm looking for my first job in IT [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/célia-gaudin/)
 
