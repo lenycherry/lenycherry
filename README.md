@@ -27,7 +27,7 @@ The world of IT has always fascinated me and deep down I have always hoped to be
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenycherry)](https://github.com/anuraghazra/github-readme-stats)    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lenycherry&show_icons=true)
 
 ###  :pushpin: Currently
-:pencil2: I am working on my [portfolio](https://github.com/lenycherry/portefolio) by improving my skills with CSS3, JS vanilla and some little applications to learn React.
+:pencil2: I am working on my [portfolio](https://github.com/lenycherry/portefolio) by improving my skills with CSS3, JS vanilla and some little applications for practice React.
 
 :book: What I learn : ![REACT](https://img.shields.io/badge/react-444346.svg?style=flat-square&logo=react) 
 
