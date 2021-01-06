@@ -13,9 +13,10 @@ The world of IT has always fascinated me and deep down I have always hoped to be
 #### Frameworks:
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-927EDD.svg?style=for-the-badge&logo=bootstrap)    
 #### Libraries:
-![REACT](https://img.shields.io/badge/REACT-BAC0C6.svg?style=for-the-badge&logo=react)  ![JQUERY](https://img.shields.io/badge/JQUERY-7EAFDD.svg?style=for-the-badge&logo=jquery)
+![REACT](https://img.shields.io/badge/REACT-FFFFFF.svg?style=for-the-badge&logo=react)  ![JQUERY](https://img.shields.io/badge/JQUERY-7EAFDD.svg?style=for-the-badge&logo=jquery)
 #### Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-A1C1DF.svg?style=for-the-badge&logo=mysql)
+![FIREBASE](https://img.shields.io/badge/FIREBASE-FFFFFF.svg?style=for-the-badge&logo=firebase)
 #### CMS:
 ![WORDPRESS](https://img.shields.io/badge/WORDPRESS-BAC0C6.svg?style=for-the-badge&logo=wordpress)
 #### Tools:
